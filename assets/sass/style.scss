@@ -1,10 +1,14 @@
 /*---------------------------------------
-    Template name: 
-    Template URI: 
+    Theme Name:
+    Theme URI:
     Description: 
-    Template Author: 
-    Template Author URI: 
+    Author Name:
+    Author URI:
     Version: 1.0
+    Tags:
+    License:
+    License URI:
+    Text Domain:
 -----------------------------------------
     Table of contents
 -----------------------------------------
@@ -16,10 +20,8 @@
     ## 0.2 Layout Style
 
     ## 0.3 Modules Style
-
-    ## 0.4 State Style
     
-    ## 0.5 Theme Style
+    ## 0.4 Theme Style
     
 -----------------------------------------*/
 
@@ -44,11 +46,6 @@
 @import "3-module/3-module";
 
 /*---------------------------------------
-    0.4 State Style
+    0.4 Theme Style
 -----------------------------------------*/
-@import "4-state/4-state";
-
-/*---------------------------------------
-    0.5 Theme Style
------------------------------------------*/
-@import "5-theme/5-theme";
+@import "4-theme/4-theme";
